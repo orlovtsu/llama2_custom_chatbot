@@ -8,7 +8,7 @@ The application consists of two main files:
 
 - `app.py`: The Streamlit application file.
 - `backend.py`: Contains the backend logic for training the model and generating responses.
-- 
+  
 The chatbot is trained on the text extracted from a PDF file uploaded by the user. The training process involves creating a knowledge base from the text and setting up a conversational retrieval chain. Once trained, the chatbot can generate responses to user inputs based on the knowledge acquired from the PDF.
 
 ## Requirements
