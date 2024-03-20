@@ -20,6 +20,9 @@ Before running the application, ensure you have the following requirements insta
 - Transformers
 - Torch
 - PyPDF
+- FAISS-GPU
+- Accelerate
+- BitsAndBytes
 
 GPU with CUDA support is also required for the instance to run the application.
 
