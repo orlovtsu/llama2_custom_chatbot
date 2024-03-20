@@ -1,6 +1,6 @@
 # Llama 2 Chatbot Trained on Your PDF
 
-This repository contains a Streamlit application that allows users to train a Llama 2 chatbot on a PDF document and interact with it.
+This repository contains a Streamlit application that allows users to train a Llama 2 chatbot on a PDF document utilizing LangChain and FAISS vector store and interact with it.
 
 ## Overview
 
@@ -23,6 +23,7 @@ Before running the application, ensure you have the following requirements insta
 - FAISS-GPU
 - Accelerate
 - BitsAndBytes
+- LangChain
 
 GPU with CUDA support is also required for the instance to run the application.
 
